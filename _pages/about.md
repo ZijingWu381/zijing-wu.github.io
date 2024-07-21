@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Starting in Fall 2024**, I will begin my PhD study in Computational Neuroscience with [Dr. Paul Masset](https://scholar.harvard.edu/paul-masset). I 
+am excited for the journey laid ahead of us to march on. 
+
+---
 
 I study Math, Computer Science, and Psychology at Georgia Tech, with a general focus on understanding the brain with computational approaches.
 Currently, I am a Guest Researcher at the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at [Simons Foundation](https://www.simonsfoundation.org/). I remotely continue my summer work with [Dr. SueYeon Chung](https://sites.google.com/site/sueyeonchung/) and [Dr. Jenelle Feather](https://www.jenellefeather.com/) on studying the role of stochasticity in both ventral visual stream and its computational models, vision ANN's. Back at Georgia Tech, I work with [Prof. Anqi Wu](https://sites.google.com/view/brainml/home?authuser=0) on using generative probabilistic models for neural latent discovery/alignment. Previously, I have been very fortunate to work in [Prof. Eva Dyer](https://dyerlab.gatech.edu/)'s group on topics also lie in the intersection of machine learning and neuroscience. 
